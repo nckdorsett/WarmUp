@@ -3,6 +3,8 @@ public class App {
 
         System.out.println("Hello World");
 
-        System.out.println("The world says hello back");
+        System.out.println("Github is lit yo");
+
+        System.out.println("the world says hello back and github needs to cool down");
     }
 }
